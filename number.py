@@ -76,5 +76,5 @@ class Number:
         else:
             return str(self.n)
 
-n1 = Number(2)
-print(n1.is_prime())
+x1 = Number(2)
+print(x1.is_prime())
